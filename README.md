@@ -3,7 +3,7 @@ Started with my 100 days of coding challenge with C Programming language.
 
 Programs
 1. Write a program to identify if the character is a vowel or consonant. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day1.c)
-2. Write a program to identify if the character is an alphabet or not. 
+2. Write a program to identify if the character is an alphabet or not. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day2.c)
 3. Write a program to find ASCII values of a character. 
 4. Write a program to find Number of digits in an integer. 
 5. Write a program to find Factorial of a number. 
