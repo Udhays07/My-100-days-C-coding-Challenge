@@ -7,7 +7,7 @@ Programs
 3. Write a program to find ASCII values of a character. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day3.c)
 4. Write a program to find Number of digits in an integer. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day4.c)
 5. Write a program to find Factorial of a number. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day5.c)
-6. Write a program to find Fibonacci series up to n.  
+6. Write a program to find Fibonacci series up to n.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day6.c)  
 7. Write a program to identify of the a number is positive or negative.
 8. Write a program to identify if the number is even or odd. 
 9. Write a program to find Area of a circle. 
