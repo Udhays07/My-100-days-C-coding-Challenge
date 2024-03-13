@@ -10,7 +10,7 @@ Programs
 6. Write a program to find Fibonacci series up to n.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day6.c)  
 7. Write a program to identify of the a number is positive or negative.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day7.c)
 8. Write a program to identify if the number is even or odd.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day8.c)
-9. Write a program to find Area of a circle. 
+9. Write a program to find Area of a circle.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day9.c) 
 10. Write a program to find Area of a rectangle. 
 11. Write a program to find Area of a Triangle. 
 12. Write a program to find Sum of digits of a number. 
