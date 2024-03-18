@@ -15,7 +15,7 @@ Programs
 11. Write a program to find Area of a Triangle.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day11.c) 
 12. Write a program to find Sum of digits of a number.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day12.c)
 13. Write a program to find Sum of N natural numbers. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day13.c)
-14. Write a program to find Sum of numbers in a given range. 
+14. Write a program to find Sum of numbers in a given range. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day14.c)
 15. Write a program to reverse a given number. 
 16. Write a program to find LCM of two numbers. 
 17. Write a program to identify if the number is Strong number or not. 
