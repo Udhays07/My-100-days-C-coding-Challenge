@@ -16,17 +16,17 @@ Programs
 12. Write a program to find Sum of digits of a number.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day12.c)
 13. Write a program to find Sum of N natural numbers. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day13.c)
 14. Write a program to find Sum of numbers in a given range. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day14.c)
-15. Write a program to reverse a given number. 
-16. Write a program to find LCM of two numbers. 
-17. Write a program to identify if the number is Strong number or not. 
-18. Write a program to identify if the number is Perfect number or not. 
-19. Write a program to find Power of a number. 
-20. Write a program to find the Factors of a number. 
-21. Write a program to Add two fractions. 
-22. Write a program to find GCD of two numbers. 
-23. Write a program to identify if the number is Armstrong number or not. 
-24. Write a program to find Greatest of two numbers. 
-25. Write a program to find Greatest of three numbers. 
-26. Write a program to identify if the year is Leap year or not. 
-27. Write a program to identify if the number is Prime number or not. 
-28. Write a program to identify if the number is Palindrome or not.
+15. Write a program to reverse a given number. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day15.c)
+17. Write a program to find LCM of two numbers. 
+18. Write a program to identify if the number is Strong number or not. 
+19. Write a program to identify if the number is Perfect number or not. 
+20. Write a program to find Power of a number. 
+21. Write a program to find the Factors of a number. 
+22. Write a program to Add two fractions. 
+23. Write a program to find GCD of two numbers. 
+24. Write a program to identify if the number is Armstrong number or not. 
+25. Write a program to find Greatest of two numbers. 
+26. Write a program to find Greatest of three numbers. 
+27. Write a program to identify if the year is Leap year or not. 
+28. Write a program to identify if the number is Prime number or not. 
+29. Write a program to identify if the number is Palindrome or not.
