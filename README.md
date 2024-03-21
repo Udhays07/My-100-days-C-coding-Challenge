@@ -18,7 +18,7 @@ Programs
 14. Write a program to find Sum of numbers in a given range. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day14.c)
 15. Write a program to reverse a given number. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day15.c)
 17. Write a program to find LCM of two numbers.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day16.c)
-18. Write a program to identify if the number is Strong number or not. 
+18. Write a program to identify if the number is Strong number or not. [(Code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day17.c)
 19. Write a program to identify if the number is Perfect number or not. 
 20. Write a program to find Power of a number. 
 21. Write a program to find the Factors of a number. 
