@@ -19,7 +19,7 @@ Programs
 15. Write a program to reverse a given number. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day15.c)
 17. Write a program to find LCM of two numbers.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day16.c)
 18. Write a program to identify if the number is Strong number or not. [(Code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day17.c)
-19. Write a program to identify if the number is Perfect number or not. 
+19. Write a program to identify if the number is Perfect number or not. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day18.c)
 20. Write a program to find Power of a number. 
 21. Write a program to find the Factors of a number. 
 22. Write a program to Add two fractions. 
