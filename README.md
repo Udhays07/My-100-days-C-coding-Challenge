@@ -21,7 +21,7 @@ Programs
 18. Write a program to identify if the number is Strong number or not. [(Code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day17.c)
 19. Write a program to identify if the number is Perfect number or not. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day18.c)
 20. Write a program to find Power of a number.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day19.c)
-21. Write a program to find the Factors of a number. 
+21. Write a program to find the Factors of a number.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day20.c)
 22. Write a program to Add two fractions. 
 23. Write a program to find GCD of two numbers. 
 24. Write a program to identify if the number is Armstrong number or not. 
