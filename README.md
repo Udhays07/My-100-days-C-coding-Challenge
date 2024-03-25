@@ -22,7 +22,7 @@ Programs
 19. Write a program to identify if the number is Perfect number or not. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day18.c)
 20. Write a program to find Power of a number.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day19.c)
 21. Write a program to find the Factors of a number.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day20.c)
-22. Write a program to Add two fractions. 
+22. Write a program to Add two fractions.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day21.c)
 23. Write a program to find GCD of two numbers. 
 24. Write a program to identify if the number is Armstrong number or not. 
 25. Write a program to find Greatest of two numbers. 
