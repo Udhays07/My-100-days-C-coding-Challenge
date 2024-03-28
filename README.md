@@ -25,7 +25,7 @@ Programs
 22. Write a program to Add two fractions.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day21.c)
 23. Write a program to find GCD of two numbers.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day22.c) 
 24. Write a program to identify if the number is Armstrong number or not.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day23.c)
-25. Write a program to find Greatest of two numbers. 
+25. Write a program to find Greatest of two numbers. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day24.c)
 26. Write a program to find Greatest of three numbers. 
 27. Write a program to identify if the year is Leap year or not. 
 28. Write a program to identify if the number is Prime number or not. 
