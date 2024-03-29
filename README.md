@@ -17,16 +17,16 @@ Programs
 13. Write a program to find Sum of N natural numbers. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day13.c)
 14. Write a program to find Sum of numbers in a given range. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day14.c)
 15. Write a program to reverse a given number. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day15.c)
-17. Write a program to find LCM of two numbers.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day16.c)
-18. Write a program to identify if the number is Strong number or not. [(Code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day17.c)
-19. Write a program to identify if the number is Perfect number or not. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day18.c)
-20. Write a program to find Power of a number.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day19.c)
-21. Write a program to find the Factors of a number.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day20.c)
-22. Write a program to Add two fractions.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day21.c)
-23. Write a program to find GCD of two numbers.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day22.c) 
-24. Write a program to identify if the number is Armstrong number or not.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day23.c)
-25. Write a program to find Greatest of two numbers. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day24.c)
-26. Write a program to find Greatest of three numbers. 
-27. Write a program to identify if the year is Leap year or not. 
-28. Write a program to identify if the number is Prime number or not. 
-29. Write a program to identify if the number is Palindrome or not.
+16. Write a program to find LCM of two numbers.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day16.c)
+17. Write a program to identify if the number is Strong number or not. [(Code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day17.c)
+18. Write a program to identify if the number is Perfect number or not. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day18.c)
+19. Write a program to find Power of a number.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day19.c)
+20. Write a program to find the Factors of a number.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day20.c)
+21. Write a program to Add two fractions.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day21.c)
+22. Write a program to find GCD of two numbers.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day22.c) 
+23. Write a program to identify if the number is Armstrong number or not.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day23.c)
+24. Write a program to find Greatest of two numbers. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day24.c)
+25. Write a program to find Greatest of three numbers.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day25.c)
+26. Write a program to identify if the year is Leap year or not. 
+27. Write a program to identify if the number is Prime number or not. 
+28. Write a program to identify if the number is Palindrome or not.
