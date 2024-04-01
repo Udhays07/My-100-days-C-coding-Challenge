@@ -29,4 +29,4 @@ Programs
 25. Write a program to find Greatest of three numbers.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day25.c)
 26. Write a program to identify if the year is Leap year or not.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day26.c) 
 27. Write a program to identify if the number is Prime number or not.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day27.c) 
-28. Write a program to identify if the number is Palindrome or not.
+28. Write a program to identify if the number is Palindrome or not. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day28.c)
