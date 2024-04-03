@@ -30,8 +30,8 @@ Programs
 26. Write a program to identify if the year is Leap year or not.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day26.c) 
 27. Write a program to identify if the number is Prime number or not.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day27.c) 
 28. Write a program to identify if the number is Palindrome or not. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day28.c)
-29. Write a program to print prime numbers in a given range
-30. Write a program to print Armstrong numbers between two intervals
+29. Write a program to print prime numbers in a given range. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day29.c)
+30. Write a program to print Armstrong numbers between two intervals. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day30.c)
 31. Write a program to express a number as a sum of two prime numbers?
 32. Write a program to Replace all 0’s with 1 in a given integer
 33. Write a program to print Pyramid pattern using stars
