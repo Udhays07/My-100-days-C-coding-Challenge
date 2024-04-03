@@ -1,30 +1,34 @@
+//Write a program to print prime numbers in a given range
 #include<stdio.h>
-int main ()
+void prime(int x, int y)
 {
-    int i, prime, up, low, n;
-    printf ("ENTER THE LOWER LIMIT : ");
-    scanf ("%d", &low);
-    printf ("ENTER THE UPPER LIMIT : ");
-    scanf ("%d", &up);
-    if(low>=2)
-    {
-        printf ("PRIME NUMBERS ARE : ");
-        for (n = low + 1; n < up; n++)
+    int m;
+    printf("Prime numbers between the given integers are:");
+    while(x<=y)
+    {   
+        int flag = 0;
+        if(x==1)
+            x = 2;
+        m=x/2;
+        for(int i=2; i<=m; i++)
         {
-            prime = 1;
-            for (i = 2; i < n/2; i++)
-                if (n % i == 0)
-                {
-                    prime = 0;
-                    break;
-                }
-            if (prime)
-                printf ("\t %d", n);
+            if( x%i==0){
+                flag ++;
+                break;
+            }
+            
         }
-    }
-    else
-    {
-        printf("Enter lower number must be greater than 1");
+        if(flag==0){
+            printf(" %d,", x);
+        }
+        x++;
     }
 }
 
+int main()
+{
+    int a, b;
+    printf("Enter two integers a, b: ");
+    scanf("%d %d",&a, &b);
+    prime(a,b);
+}
