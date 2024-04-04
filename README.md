@@ -32,7 +32,7 @@ Programs
 28. Write a program to identify if the number is Palindrome or not. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day28.c)
 29. Write a program to print prime numbers in a given range. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day29.c)
 30. Write a program to print Armstrong numbers between two intervals. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day30.c)
-31. Write a program to express a number as a sum of two prime numbers?
+31. Write a program to express a number as a sum of two prime numbers?[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day31.c)
 32. Write a program to Replace all 0’s with 1 in a given integer
 33. Write a program to print Pyramid pattern using stars
 34. Write a program to print Pyramid pattern using numbers
