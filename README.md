@@ -36,7 +36,7 @@ Programs
 32. Write a program to Replace all 0’s with 1 in a given integer. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day32.c)
 33. Write a program to print Pyramid pattern using stars.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day33.c)
 34. Write a program to print Pyramid pattern using numbers.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day34.c)
-35. Write a program to print Palindromic pyramid pattern printing
+35. Write a program to print Palindromic pyramid pattern printing. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day35.c)
 36. Write a program to calculate Maximum number of handshakes
 37. Write a program to find the Quadrants in which coordinates lie
 38. Write a program to Convert digit/number to words
