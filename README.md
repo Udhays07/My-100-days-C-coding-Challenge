@@ -40,7 +40,7 @@ Programs
 36. Write a program to calculate Maximum number of handshakes.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day36.c)
 37. Write a program to find the Quadrants in which coordinates lie.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day37.c).
 38. Write a program to Convert digit/number to words. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day38.c)
-39. Write a program to find Number of days in a given month of a given year
+39. Write a program to find Number of days in a given month of a given year.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day39.c)
 40. Write a program to find Permutations in which n people can occupy r seats in a classroom.
 41. Write a program for Binary to decimal conversion
 42. Write a program for Decimal to binary conversion
