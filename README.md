@@ -44,7 +44,7 @@ Programs
 40. Write a program to find Permutations in which n people can occupy r seats in a classroom.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day40.c)
 41. Write a program for Binary to decimal conversion. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day41.c)
 42. Write a program for Decimal to binary conversion. [(Code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day42.c)
-43. Write a program for Binary to octal conversion
+43. Write a program for Binary to octal conversion.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day43.c)
 44. Write a program for Octal to binary conversion
 45. Write a program for Decimal to octal conversion
 46. Write a program for Octal to decimal conversion
