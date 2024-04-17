@@ -45,7 +45,7 @@ Programs
 41. Write a program for Binary to decimal conversion. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day41.c)
 42. Write a program for Decimal to binary conversion. [(Code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day42.c)
 43. Write a program for Binary to octal conversion.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day43.c)
-44. Write a program for Octal to binary conversion
+44. Write a program for Octal to binary conversion.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day44.c)
 45. Write a program for Decimal to octal conversion
 46. Write a program for Octal to decimal conversion
 47. Write a program to find number of times digit 3 occurs in each and every number from 0 to n
