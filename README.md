@@ -49,7 +49,7 @@ Programs
 45. Write a program for Decimal to octal conversion. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day46.c)
 46. Write a program for Octal to decimal conversion. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day46.c)
 47. Write a program to find number of times digit 3 occurs in each and every number from 0 to n. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day47.c)
-48. Write a program to find number of integers which has exactly 9 divisors
+48. Write a program to find number of integers which has exactly 9 divisors. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day48.c)
 49. Write a program to find roots of a quadratic equation
 50. Write a program to print Solid and hollow rectangle star pattern
 51. Write a program to print Diamond pattern printing using stars
