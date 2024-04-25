@@ -53,6 +53,6 @@ Programs
 49. Write a program to find roots of a quadratic equation.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day49.c).
 50. Write a program to print Solid and hollow rectangle star pattern. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day50.c)
 51. Write a program to print Diamond pattern printing using stars. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day51.c)
-52. Write a program to print Diamond pattern printing using numbers
+52. Write a program to print Diamond pattern printing using numbers. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day52.c)
 53. Write a program to print Floyd’s triangle
 54. Write a program to print Pascal triangle
