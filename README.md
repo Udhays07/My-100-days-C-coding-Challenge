@@ -55,4 +55,4 @@ Programs
 51. Write a program to print Diamond pattern printing using stars. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day51.c)
 52. Write a program to print Diamond pattern printing using numbers. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day52.c)
 53. Write a program to print Floyd’s triangle, [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day53.c)
-54. Write a program to print Pascal triangle
+54. Write a program to print Pascal triangle. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day54.c)
