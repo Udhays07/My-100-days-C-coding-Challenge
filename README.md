@@ -57,3 +57,48 @@ Programs
 53. Write a program to print Floyd’s triangle, [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day53.c)
 54. Write a program to print Pascal triangle. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day54.c)
 55. Write a C program to check Least Significant Bit (LSB) of a number is set or not. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day55.c)
+56.	Write a Program to copy a string. 
+57.	Write a Program to reverse a string. 
+58.	Write a Program to concatenate a string. 
+59.	Write a Program to compare two strings. 
+60.	Write a Program to print Length of the string without using strlen() function 
+61.	Write a Program to Toggle each character in a string 
+62.	Write a Program to Remove vowels from a string 
+63.	Write a Program to check if String is a palindrome or not 
+64.	Write a Program to Sort a string in alphabetical order 
+65.	Write a Program to Remove brackets from an algebraic expression 
+66.	Write a Program to Remove characters in a string except alphabets 
+67.	Write a Program to Remove spaces from a string 
+68.	Write a Program to Count the sum of numbers in a string 
+69.	Write a Program to Capitalize the first and last letter of each word of a string 
+70.	Write a Program to calculate the Frequency of characters in a string 
+71.	Write a Program to print non-repeating characters in a string 
+72.	Write a Program to check if two strings are Anagram or not 
+73.	Write a Program to Replace substring in a string 
+74.	Write a Program to Count common subsequence in two strings 
+75.	Check if two strings match where one string contains wildcard characters
+76.	Write Program to check if two arrays are the same or not 
+77.	Write Program to find the array type 
+78.	Write Program to find missing elements of a range 
+79.	 Write Program to find Triplets with a given sum 
+80.	Write Program to find number of even and odd elements in an array 
+81.	Write Program to find Frequency of each element of an array 
+82.	Write Program for basic array operations (Insert, delete and search an element) 
+83.	Write Program to find smallest and largest element in an array 
+84.	Write Program to find sum of elements in an array 
+85.	Write Program to find longest palindrome in an array 
+86.	Write Program to remove duplicate elements in an array 
+87.	Write Program to find minimum scalar product of two vectors 
+88.	Write Program to find sum of positive square elements in an array 
+89.	Write Program to find second smallest element in an array 
+90.	Write Program to for sorting the elements of an array 
+91.	Write Program for Reversing an array 
+92.	Write Program to find maximum product subarray in a given array
+93.	Write Program to find whether Arrays are disjoint or not 
+94.	Write Program to find whether an array is a subset of another array or not. 
+95.	Write Program to find maximum scalar product of two vectors
+96.	Write Program to find whether the numbers of an array be made equal? 
+97.	Write Program to find symmetric pairs in an array 
+98.	Write Program to count distinct elements of an array 
+99.	Write Program to find non-repeating elements of an array 
+100.	Write Program to find repeating elements in an array
