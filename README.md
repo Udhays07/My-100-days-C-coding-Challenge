@@ -57,7 +57,7 @@ Programs
 53. Write a program to print Floyd’s triangle, [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day53.c)
 54. Write a program to print Pascal triangle. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day54.c)
 55. Write a C program to check Least Significant Bit (LSB) of a number is set or not. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day55.c)
-56.	Write a Program to copy a string. 
+56.	Write a Program to copy a string. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day56.c)
 57.	Write a Program to reverse a string. 
 58.	Write a Program to concatenate a string. 
 59.	Write a Program to compare two strings. 
