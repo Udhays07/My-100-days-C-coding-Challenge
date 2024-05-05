@@ -61,7 +61,7 @@ Programs
 57.	Write a Program to reverse a string. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day57.c)
 58.	Write a Program to concatenate a string. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day58.c)
 59.	Write a Program to compare two strings. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day59.c)
-60.	Write a Program to print Length of the string without using strlen() function 
+60.	Write a Program to print Length of the string without using strlen() function. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day60.c) 
 61.	Write a Program to Toggle each character in a string 
 62.	Write a Program to Remove vowels from a string 
 63.	Write a Program to check if String is a palindrome or not 
