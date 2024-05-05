@@ -60,7 +60,7 @@ Programs
 56.	Write a Program to copy a string. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day56.c)
 57.	Write a Program to reverse a string. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day57.c)
 58.	Write a Program to concatenate a string. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day58.c)
-59.	Write a Program to compare two strings. 
+59.	Write a Program to compare two strings. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day59.c)
 60.	Write a Program to print Length of the string without using strlen() function 
 61.	Write a Program to Toggle each character in a string 
 62.	Write a Program to Remove vowels from a string 
