@@ -65,7 +65,7 @@ Programs
 61.	Write a Program to Toggle each character in a string.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day61.c)
 62.	Write a Program to Remove vowels from a string.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day62.c)
 63.	Write a Program to check if String is a palindrome or not. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day63.c)
-64.	Write a Program to Sort a string in alphabetical order 
+64.	Write a Program to Sort a string in alphabetical order. [(Code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day64.c)
 65.	Write a Program to Remove brackets from an algebraic expression 
 66.	Write a Program to Remove characters in a string except alphabets 
 67.	Write a Program to Remove spaces from a string 
