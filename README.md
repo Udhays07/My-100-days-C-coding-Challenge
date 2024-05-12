@@ -68,8 +68,8 @@ Programs
 64.	Write a Program to Sort a string in alphabetical order. [(Code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day64.c)
 65.	Write a Program to Remove brackets from an algebraic expression . [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day65.c)
 66.	Write a Program to Remove characters in a string except alphabets .[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day66.c)
-67.	Write a Program to Remove spaces from a string 
-68.	Write a Program to Count the sum of numbers in a string 
+67.	Write a Program to Remove spaces from a string. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day67.c)
+68.	Write a Program to Count the sum of numbers in a string. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day68.c)
 69.	Write a Program to Capitalize the first and last letter of each word of a string 
 70.	Write a Program to calculate the Frequency of characters in a string 
 71.	Write a Program to print non-repeating characters in a string 
