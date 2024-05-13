@@ -70,7 +70,7 @@ Programs
 66.	Write a Program to Remove characters in a string except alphabets .[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day66.c)
 67.	Write a Program to Remove spaces from a string. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day67.c)
 68.	Write a Program to Count the sum of numbers in a string. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day68.c)
-69.	Write a Program to Capitalize the first and last letter of each word of a string 
+69.	Write a Program to Capitalize the first and last letter of each word of a string.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day69.c)
 70.	Write a Program to calculate the Frequency of characters in a string 
 71.	Write a Program to print non-repeating characters in a string 
 72.	Write a Program to check if two strings are Anagram or not 
