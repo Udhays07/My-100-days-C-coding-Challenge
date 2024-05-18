@@ -75,7 +75,7 @@ Programs
 71.	Write a Program to print non-repeating characters in a string. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day71.c).
 72.	Write a Program to check if two strings are Anagram or not. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day73.c) 
 73.	Write a Program to Replace substring in a string.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day73.c)
-74.	Write a Program to Count common subsequence in two strings 
+74.	Write a Program to Count common subsequence in two strings. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day74.c)
 75.	Check if two strings match where one string contains wildcard characters
 76.	Write Program to check if two arrays are the same or not 
 77.	Write Program to find the array type 
