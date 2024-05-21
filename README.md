@@ -78,7 +78,7 @@ Programs
 74.	Write a Program to Count common subsequence in two strings. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day74.c)
 75.	Check if two strings match where one string contains wildcard characters. [(Code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day75.c)
 76.	Write Program to check if two arrays are the same or not. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day76.c)
-77.	Write Program to find the array type 
+77.	Write Program to find the array type. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day77.c)
 78.	Write Program to find missing elements of a range 
 79.	 Write Program to find Triplets with a given sum 
 80.	Write Program to find number of even and odd elements in an array 
