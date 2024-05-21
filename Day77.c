@@ -1,53 +1,27 @@
-#include <stdio.h>
-#include <stdbool.h>
-
-const char* determineArrayType(int arr[], int size) {
-    if (size == 0) {
-        return "Empty array";
-    }
-
-    bool isAscending = true;
-    bool isDescending = true;
-    bool isSame = true;
-
-    for (int i = 1; i < size; i++) {
-        if (arr[i] < arr[i - 1]) {
-            isAscending = false;
-        }
-        if (arr[i] > arr[i - 1]) {
-            isDescending = false;
-        }
-        if (arr[i] != arr[0]) {
-            isSame = false;
-        }
-    }
-
-    if (isSame) {
-        return "All elements are the same";
-    }
-    if (isAscending) {
-        return "Sorted in ascending order";
-    }
-    if (isDescending) {
-        return "Sorted in descending order";
-    }
-    return "Unsorted";
-}
-
-int main() {
-    int arr[100];
-    int size;
-
-    printf("Enter the number of elements in the array: ");
-    scanf("%d", &size);
-
-    printf("Enter the elements of the array: ");
-    for (int i = 0; i < size; i++) {
+//Write C Program to find the array type
+#include<stdio.h>
+int main()
+{
+    int n, odd=0, even=0;
+    printf("Enter the number of elements: ");
+    scanf("%d", &n);
+    int arr[n];
+    printf("Enter the elements of array: ");
+    for(int i=0; i<n; i++)
+    {
         scanf("%d", &arr[i]);
     }
-
-    const char* result = determineArrayType(arr, size);
-    printf("The array is: %s\n", result);
-
-    return 0;
+    for(int i=0; i<n; i++)
+    {
+        if(arr[i]%2 != 0)
+            odd += 1;
+        else if (arr[i]%2 == 0)
+            even += 1;
+    }
+    if(odd == n)
+        printf("The array have odd Numbers");
+    else if (even == n)
+        printf("The array have even Numbers");
+    else
+        printf("The array have mixed Numbers");
 }
