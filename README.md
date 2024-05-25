@@ -82,7 +82,7 @@ Programs
 78.	Write Program to find missing elements of a range. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day78.c)
 79.	 Write Program to find Triplets with a given sum.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day79.c)
 80.	Write Program to find number of even and odd elements in an array. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day80.c)
-81.	Write Program to find Frequency of each element of an array 
+81.	Write Program to find Frequency of each element of an array. [(Code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day81.c)
 82.	Write Program for basic array operations (Insert, delete and search an element) 
 83.	Write Program to find smallest and largest element in an array 
 84.	Write Program to find sum of elements in an array 
