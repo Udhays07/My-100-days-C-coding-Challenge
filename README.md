@@ -85,8 +85,8 @@ Programs
 81.	Write Program to find Frequency of each element of an array. [(Code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day81.c)
 82.	Write Program for basic array operations (Insert, delete and search an element)[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day82.c)
 83.	Write Program to find smallest and largest element in an array.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day83.c)
-84.	Write Program to find sum of elements in an array, [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day84.c)
-85.	Write Program to find longest palindrome in an array 
+84.	Write Program to find sum of elements in an array.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day84.c)
+85.	Write Program to find longest palindrome in an array.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day85.c) 
 86.	Write Program to remove duplicate elements in an array 
 87.	Write Program to find minimum scalar product of two vectors 
 88.	Write Program to find sum of positive square elements in an array 
