@@ -89,7 +89,7 @@ Programs
 85.	Write Program to find longest palindrome in an array.[(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day85.c) 
 86.	Write Program to remove duplicate elements in an array. [(Code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day86.c)
 87.	Write Program to find minimum scalar product of two vectors. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day87.c)
-88.	Write Program to find sum of positive square elements in an array 
+88.	Write Program to find sum of positive square elements in an array. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day88.c)
 89.	Write Program to find second smallest element in an array 
 90.	Write Program to for sorting the elements of an array 
 91.	Write Program for Reversing an array 
