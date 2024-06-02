@@ -90,7 +90,7 @@ Programs
 86.	Write Program to remove duplicate elements in an array. [(Code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day86.c)
 87.	Write Program to find minimum scalar product of two vectors. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day87.c)
 88.	Write Program to find sum of positive square elements in an array. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day88.c)
-89.	Write Program to find second smallest element in an array 
+89.	Write Program to find second smallest element in an array. [(Code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day89.c)
 90.	Write Program to for sorting the elements of an array 
 91.	Write Program for Reversing an array 
 92.	Write Program to find maximum product subarray in a given array
