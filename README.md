@@ -94,11 +94,11 @@ Programs
 90.	Write Program to for sorting the elements of an array. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day90.c)
 91.	Write Program for Reversing an array. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day91.c)
 92.	Write Program to find maximum product subarray in a given array. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day92.c)
-93.	Write Program to find whether Arrays are disjoint or not 
-94.	Write Program to find whether an array is a subset of another array or not. 
-95.	Write Program to find maximum scalar product of two vectors
-96.	Write Program to find whether the numbers of an array be made equal? 
-97.	Write Program to find symmetric pairs in an array 
-98.	Write Program to count distinct elements of an array 
-99.	Write Program to find non-repeating elements of an array 
-100.	Write Program to find repeating elements in an array
+93.	Write Program to find whether Arrays are disjoint or not. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day93.c)
+95.	Write Program to find whether an array is a subset of another array or not. 
+96.	Write Program to find maximum scalar product of two vectors
+97.	Write Program to find whether the numbers of an array be made equal? 
+98.	Write Program to find symmetric pairs in an array 
+99.	Write Program to count distinct elements of an array 
+100.	Write Program to find non-repeating elements of an array 
+101.	Write Program to find repeating elements in an array
