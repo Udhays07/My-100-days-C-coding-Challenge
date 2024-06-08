@@ -96,7 +96,7 @@ Programs
 92.	Write Program to find maximum product subarray in a given array. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day92.c)
 93.	Write Program to find whether Arrays are disjoint or not. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day93.c)
 95.	Write Program to find whether an array is a subset of another array or not. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day94.c)
-96.	Write Program to find maximum scalar product of two vectors
+96.	Write Program to find maximum scalar product of two vectors. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day95.c)
 97.	Write Program to find whether the numbers of an array be made equal? 
 98.	Write Program to find symmetric pairs in an array 
 99.	Write Program to count distinct elements of an array 
