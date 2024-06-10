@@ -98,7 +98,7 @@ Programs
 95.	Write Program to find whether an array is a subset of another array or not. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day94.c)
 96.	Write Program to find maximum scalar product of two vectors. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day95.c)
 97.	Write Program to find whether the numbers of an array be made equal? [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day96.c)
-98.	Write Program to find symmetric pairs in an array 
+98.	Write Program to find symmetric pairs in an array. [(Code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day97.c) 
 99.	Write Program to count distinct elements of an array 
 100.	Write Program to find non-repeating elements of an array 
 101.	Write Program to find repeating elements in an array
