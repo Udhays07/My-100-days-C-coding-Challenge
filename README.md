@@ -101,4 +101,4 @@ Programs
 98.	Write Program to find symmetric pairs in an array. [(Code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day97.c) 
 99.	Write Program to count distinct elements of an array. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day98.c)
 100.	Write Program to find non-repeating elements of an array. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day99.c)
-101.	Write Program to find repeating elements in an array
+101.	Write Program to find repeating elements in an array. [(code)](https://github.com/Udhays07/My-100-days-C-coding-Challenge/blob/main/Day100.c)
